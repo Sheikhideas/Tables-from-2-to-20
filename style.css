@@ -1,0 +1,292 @@
+#h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+    background-color: rgb(247, 148, 67);
+    margin-top: 3%;
+    margin-right: 35%;
+    margin-left: 35%;
+    border-radius: 18%;
+    border-style: outset;
+    border-top-color: rgb(243, 113, 21);
+    border-bottom-color: crimson;
+    border-left-color: darkred;
+    border-right-color:rgb(230, 22, 22);
+    text-align: center;
+    font-size-adjust: calc(350px);
+}
+style{
+    margin: left 150px;;
+    margin-right: 150px;
+}
+.table2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 2%;
+    line-height: 150%;
+    float: inline-start;
+    text-align-last: justify;
+    text-decoration-line: overline;
+    width: 13%;
+    color: brown;
+    background-color: rgb(247, 148, 67);
+    border-color: rgb(43, 25, 19);
+    border-radius: 7%;
+    border-style: outset;
+}
+.table3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: overline;
+    line-height: 150%;
+    float: inline-start;
+    text-align-last: justify;
+    text-align: start;
+    width: 13%;
+    color: brown;
+    background-color: rgb(247, 148, 67);
+    border-color: rgb(43, 25, 19);
+    border-radius: 7%;
+    border-style: outset;
+}
+.table4{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: overline;
+    line-height: 150%;
+    float: inline-start;
+    text-align-last: justify;
+    text-align: start;
+    width: 13%;
+    color: brown;
+    background-color: rgb(247, 148, 67);
+    border-color: rgb(43, 25, 19);
+    border-radius: 7%;
+    border-style: outset;
+}
+.table5{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: overline;
+    line-height: 150%;
+    float: inline-start;
+    text-align-last: justify;
+    text-align: start;
+    width: 13%;
+    color: brown;
+    background-color: rgb(247, 148, 67);
+    border-color: rgb(43, 25, 19);
+    border-radius: 5%;
+    border-style: outset;
+}
+.table6{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: overline;
+    line-height: 150%;
+    float: inline-start;
+    text-align-last: justify;
+    text-align: start;
+    width: 13%;
+    color: brown;
+    background-color: rgb(247, 148, 67);
+    border-color: rgb(43, 25, 19);
+    border-radius: 5%;
+    border-style: outset;
+}
+.table7{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: overline;
+    line-height: 150%;
+    float: inline-start;
+    text-align-last: justify;
+    text-align: start;
+    width: 13%;
+    color: brown;
+    background-color: rgb(247, 148, 67);
+    border-color: rgb(43, 25, 19);
+    border-radius: 5%;
+    border-style: outset;
+}
+.table8{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: overline;
+    line-height: 150%;
+    float: inline-start;
+    text-align-last: justify;
+    text-align: start;
+    width: 13%;
+    color: brown;
+    background-color: rgb(247, 148, 67);
+    border-color: rgb(43, 25, 19);
+    border-radius: 5%;
+    border-style: outset;
+}
+.table9{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 2%;
+    text-decoration-line: overline;
+    line-height: 150%;
+    float: inline-start;
+    text-align-last: justify;
+    text-align: start;
+    width: 13%;
+    color: brown;
+    background-color: rgb(247, 148, 67);
+    border-color: rgb(43, 25, 19);
+    border-radius: 5%;
+    border-style: outset;
+}
+.table10{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: overline;
+    line-height: 150%;
+    float: inline-start;
+    text-align-last: justify;
+    text-align: start;
+    width: 13%;
+    color: brown;
+    background-color: rgb(247, 148, 67);
+    border-color: rgb(43, 25, 19);
+    border-radius: 5%;
+    border-style: outset;
+}
+.table11{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: overline;
+    line-height: 150%;
+    float: inline-start;
+    text-align-last: justify;
+    text-align: start;
+    width: 13%;
+    color: brown;
+    background-color: rgb(247, 148, 67);
+    border-color: rgb(43, 25, 19);
+    border-radius: 5%;
+    border-style: outset;
+}
+.table12{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: overline;
+    line-height: 150%;
+    float: inline-start;
+    text-align-last: justify;
+    text-align: start;
+    width: 13%;
+    color: brown;
+    background-color: rgb(247, 148, 67);
+    border-color: rgb(43, 25, 19);
+    border-radius: 5%;
+    border-style: outset;
+}
+.table13{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: overline;
+    line-height: 150%;
+    float: inline-start;
+    text-align-last: justify;
+    text-align: start;
+    width: 13%;
+    color: brown;
+    background-color: rgb(247, 148, 67);
+    border-color: rgb(43, 25, 19);
+    border-radius: 5%;
+    border-style: outset;
+}
+.table14{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: overline;
+    line-height: 150%;
+    float: inline-start;
+    text-align-last: justify;
+    text-align: start;
+    width: 13%;
+    color: brown;
+    background-color: rgb(247, 148, 67);
+    border-color: rgb(43, 25, 19);
+    border-radius: 5%;
+    border-style: outset;
+}
+.table15{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: overline;
+    line-height: 150%;
+    float: inline-start;
+    text-align-last: justify;
+    text-align: start;
+    width: 13%;
+    color: brown;
+    background-color: rgb(247, 148, 67);
+    border-color: rgb(43, 25, 19);
+    border-radius: 5%;
+    border-style: outset;
+}
+.table16{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-inline-start: 10%;
+    text-decoration-line: overline;
+    line-height: 150%;
+    float: inline-start;
+    text-align-last: justify;
+    text-align: start;
+    width: 13%;
+    color: brown;
+    background-color: rgb(247, 148, 67);
+    border-color: rgb(43, 25, 19);
+    border-radius: 5%;
+    border-style: outset;
+}
+.table17{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: overline;
+    line-height: 150%;
+    float: inline-start;
+    text-align-last: justify;
+    text-align: start;
+    width: 13%;
+    color: brown;
+    background-color: rgb(247, 148, 67);
+    border-color: rgb(43, 25, 19);
+    border-radius: 5%;
+    border-style: outset;
+}
+.table18{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: overline;
+    line-height: 150%;
+    float: inline-start;
+    text-align-last: justify;
+    text-align: start;
+    width: 13%;
+    color: brown;
+    background-color: rgb(247, 148, 67);
+    border-color: rgb(43, 25, 19);
+    border-radius: 5%;
+    border-style: outset;
+}
+.table19{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: overline;
+    line-height: 150%;
+    float: inline-start;
+    text-align-last: justify;
+    text-align: start;
+    width: 13%;
+    color: brown;
+    background-color: rgb(247, 148, 67);
+    border-color: rgb(43, 25, 19);
+    border-radius: 5%;
+    border-style: outset;
+}
+.table20{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: overline;
+    line-height: 150%;
+    float: inline-start;
+    text-align-last: justify;
+    text-align: start;
+    width: 13%;
+    color: brown;
+    background-color: rgb(247, 148, 67);
+    border-color: rgb(43, 25, 19);
+    border-radius: 5%;
+    border-style: outset;
+}
+body{
+    background-color: rgb(241, 180, 101);
+}
